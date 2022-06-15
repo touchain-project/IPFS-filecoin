@@ -247,6 +247,4 @@ public class IpfsFileUtils {
         ClipData clipData = ClipData.newPlainText("Label", text);
         clipboardManager.setPrimaryClip(clipData);
     }
-
-
 }

@@ -32,6 +32,4 @@ public class IpfsConstant {
 
     public static final String API_MAIN_HASH = BASEURL + "/api/v0/files/stat?arg=/";
 
-
-
 }
